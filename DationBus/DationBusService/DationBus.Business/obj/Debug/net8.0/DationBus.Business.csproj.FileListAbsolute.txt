@@ -1,0 +1,17 @@
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\DationBus.Business.deps.json
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\DationBus.Business.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\DationBus.Business.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\DationBus.Domain.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\DationBus.Domain.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.csproj.AssemblyReference.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.AssemblyInfoInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.AssemblyInfo.cs
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.csproj.CoreCompileInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBu.3BEE970D.Up2Date
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\refint\DationBus.Business.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\DationBus.Business.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\obj\Debug\net8.0\ref\DationBus.Business.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\CommonUtils.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Business\bin\Debug\net8.0\CommonUtils.pdb

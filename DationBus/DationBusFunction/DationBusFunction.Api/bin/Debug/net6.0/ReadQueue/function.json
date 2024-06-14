@@ -1,0 +1,17 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.1.1",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "serviceBusTrigger",
+      "connection": "AZURESERVICEBUSCONNECTIONSTRING",
+      "queueName": "queue1",
+      "isSessionsEnabled": false,
+      "autoComplete": true,
+      "name": "myQueueItem"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/DationBusFunction.Api.dll",
+  "entryPoint": "DationBusFunction.Api.Functions.QueueFunction.Run"
+}

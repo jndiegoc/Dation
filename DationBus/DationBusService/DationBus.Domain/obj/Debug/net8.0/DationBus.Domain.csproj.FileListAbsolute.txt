@@ -1,0 +1,12 @@
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\bin\Debug\net8.0\DationBus.Domain.deps.json
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\bin\Debug\net8.0\DationBus.Domain.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\bin\Debug\net8.0\DationBus.Domain.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.csproj.AssemblyReference.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.AssemblyInfo.cs
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\refint\DationBus.Domain.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\DationBus.Domain.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusService\DationBus.Domain\obj\Debug\net8.0\ref\DationBus.Domain.dll

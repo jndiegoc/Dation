@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|d:\\proyectos\\2024\\dation_technical\\dationbus\\dationbusservice\\dationbus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|solutionrelative:dationbusservice\\dationbus.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|d:\\proyectos\\2024\\dation_technical\\dationbus\\dationbusservice\\dationbus.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|solutionrelative:dationbusservice\\dationbus.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0550053C-6DFA-4764-9362-776EF6256F6B}|DationBusFunction\\DationBusFunction.Api\\DationBusFunction.Api.csproj|d:\\proyectos\\2024\\dation_technical\\dationbus\\dationbusfunction\\dationbusfunction.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0550053C-6DFA-4764-9362-776EF6256F6B}|DationBusFunction\\DationBusFunction.Api\\DationBusFunction.Api.csproj|solutionrelative:dationbusfunction\\dationbusfunction.api\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|d:\\proyectos\\2024\\dation_technical\\dationbus\\dationbusservice\\dationbus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A55D969-287C-402A-9E38-FC7C4ECD8A9C}|DationBusService\\DationBus.Api\\DationBus.Api.csproj|solutionrelative:dationbusservice\\dationbus.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "DationBusService\\DationBus.Api\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\appsettings.json",
+              "RelativeToolTip": "DationBusService\\DationBus.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T05:20:48.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DationBusService\\DationBus.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\appsettings.Development.json",
+              "RelativeToolTip": "DationBusService\\DationBus.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T05:20:47.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusFunction\\DationBusFunction.Api\\local.settings.json",
+              "RelativeDocumentMoniker": "DationBusFunction\\DationBusFunction.Api\\local.settings.json",
+              "ToolTip": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusFunction\\DationBusFunction.Api\\local.settings.json",
+              "RelativeToolTip": "DationBusFunction\\DationBusFunction.Api\\local.settings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T04:56:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DationBusService\\DationBus.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Proyectos\\2024\\Dation_Technical\\DationBus\\DationBusService\\DationBus.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DationBusService\\DationBus.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T04:56:14.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lelqlZK7fHDcu70YRUteGiqDqp3c7lQLNUNQVw33Bco=",
+  "Source": "DationBus.Api",
+  "BasePath": "_content/DationBus.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

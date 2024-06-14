@@ -1,0 +1,14 @@
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\bin\Debug\net8.0\DationBusFunction.Model.deps.json
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\bin\Debug\net8.0\DationBusFunction.Model.runtimeconfig.json
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\bin\Debug\net8.0\DationBusFunction.Model.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\bin\Debug\net8.0\DationBusFunction.Model.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.csproj.AssemblyReference.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.AssemblyInfoInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.AssemblyInfo.cs
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.csproj.CoreCompileInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\refint\DationBusFunction.Model.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\DationBusFunction.Model.genruntimeconfig.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.Model\obj\Debug\net8.0\ref\DationBusFunction.Model.dll

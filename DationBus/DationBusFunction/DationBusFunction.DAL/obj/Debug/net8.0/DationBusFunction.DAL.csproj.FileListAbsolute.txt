@@ -1,0 +1,15 @@
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\bin\Debug\net8.0\DationBusFunction.DAL.deps.json
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\bin\Debug\net8.0\DationBusFunction.DAL.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\bin\Debug\net8.0\DationBusFunction.DAL.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\bin\Debug\net8.0\DationBusFunction.Model.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\bin\Debug\net8.0\DationBusFunction.Model.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.csproj.AssemblyReference.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.AssemblyInfoInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.AssemblyInfo.cs
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.csproj.CoreCompileInputs.cache
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBu.E5FA4EAE.Up2Date
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\refint\DationBusFunction.DAL.dll
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\DationBusFunction.DAL.pdb
+D:\Proyectos\2024\Dation_Technical\DationBus\DationBusFunction\DationBusFunction.DAL\obj\Debug\net8.0\ref\DationBusFunction.DAL.dll
